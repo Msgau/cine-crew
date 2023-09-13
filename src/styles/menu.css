@@ -1,0 +1,18 @@
+.menu {
+    width: 150px;
+    margin: 0;
+}
+.menu h2 {
+    margin: 0;
+}
+.menu ul {
+    padding: 0;
+    margin-top: 15px;
+}
+.menu a {
+    color: white;
+}
+.menu a:hover {
+    color: white;
+    text-decoration: underline;
+}
